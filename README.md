@@ -36,27 +36,30 @@ Implemented searching ,review product and buying functionalities with online pay
 ### Screenshort
 
 ###### Home Page
-![Screenshot (1)](https://user-images.githubusercontent.com/100186167/163883498-7d2d2be0-cf6e-47dc-966f-9360849729ed.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/100186167/163885742-2dd124c2-3495-4125-add3-c848cf36c47b.png)
+
 
 
 ###### Register Page
-![Screenshot (10)](https://user-images.githubusercontent.com/100186167/163883690-e6fd3695-5457-41d2-8dce-269981edabcb.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/100186167/163885764-754496e1-6c31-44aa-9a2f-3196a02808d2.png)
+
 
 ###### Product Pages
-![Screenshot (3)](https://user-images.githubusercontent.com/100186167/163883774-bdbfc227-6707-4643-bbb6-36c4cfe741a5.png)
-![Screenshot (2)](https://user-images.githubusercontent.com/100186167/163883811-12afc136-ed9e-4e3a-b327-d5a4b341a2a1.png)
-![Screenshot (4)](https://user-images.githubusercontent.com/100186167/163884088-eb588fe5-40ab-416c-95f4-50a342a7fbf1.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/100186167/163885787-9164aa77-e816-48d6-8f9f-fdb7e5c1f5f3.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/100186167/163885799-7ee5bcac-6bf4-4a6e-838b-467a2dc8051a.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/100186167/163885808-56f2da1d-8164-4876-9200-b9e195d5565f.png)
 
 
 ###### Product Description Page
-![Screenshot (5)](https://user-images.githubusercontent.com/100186167/163883918-9971cd7a-be61-44a7-9833-e561c26dd4c5.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/100186167/163885821-9f853007-240e-4999-a4b6-ae9bc9f5123d.png)
+
 
 ###### Cart and Checkout Pages
-![Screenshot (6)](https://user-images.githubusercontent.com/100186167/163884033-51b06bf5-7ef7-447e-a18d-fa5fcec8f69e.png)
-![Screenshot (7)](https://user-images.githubusercontent.com/100186167/163884062-effb689b-c736-4445-aef7-ecd54f3c359e.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/100186167/163885884-9c7a715e-fdee-477c-b327-a434848e2a07.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/100186167/163885904-bcc7bb31-70a9-457a-b045-f6fa90e4b3bd.png)
 
 
 
 ### Deployed site
 
-[Your Link Here](https://lighthearted-boba-40e862.netlify.app/)
+[Deploued Link of website](https://lighthearted-boba-40e862.netlify.app/)
