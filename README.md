@@ -40,7 +40,7 @@ Implemented searching ,review product and buying functionalities with online pay
 
 
 
-###### Register Page
+###### Registration Page
 ![Screenshot (10)](https://user-images.githubusercontent.com/100186167/163885764-754496e1-6c31-44aa-9a2f-3196a02808d2.png)
 
 
@@ -62,4 +62,4 @@ Implemented searching ,review product and buying functionalities with online pay
 
 ### Deployed site
 
-[Deploued Link of website](https://lighthearted-boba-40e862.netlify.app/)
+[Deployed Link of website](https://lighthearted-boba-40e862.netlify.app/)
