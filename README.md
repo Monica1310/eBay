@@ -1,5 +1,5 @@
 
-eBay Website Clone CW-U3 Masai School
+ # eBay Website Clone
 
 INTRODUCTION
 
